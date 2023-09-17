@@ -1,5 +1,5 @@
 import "./App.css";
-import { Comments } from "./componentes/Comments/Comments";
+import { Comments } from "./componentes/Comments";
 import { Footer } from "./componentes/Footer/Footer";
 import { GetEarly } from "./componentes/GetEarly/GetEarly";
 import { Header } from "./componentes/Header/Header";
